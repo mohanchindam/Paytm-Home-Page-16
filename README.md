@@ -11,4 +11,4 @@
 ![Project-16 Preview](./Project-16.png)
 
 Project is deployed on **Netlify**:
-- You can preview the project here, [**Paytm Home Page**]()
+- You can preview the project here, [**Paytm Home Page**](https://paytm-home-page-16.netlify.app/)
